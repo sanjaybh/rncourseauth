@@ -1,0 +1,5 @@
+Firebase as a backend to "wfc-fr-app"
+
+local app name ="rncourseauth"
+
+https://console.firebase.google.com/u/0/?_gl=1*n6l4tg*_up*MQ..*_ga*MTMxMzE4NTI5My4xNzMxMDI1OTE4*_ga_CW55HF8NVT*MTczMTAyNTkxOC4xLjAuMTczMTAyNTkxOC4wLjAuMA..
